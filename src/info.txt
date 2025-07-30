@@ -1,0 +1,6 @@
+
+
+
+run the file data_collection before dashboard
+
+for run dashboard, you must to run on the terminal like streamlit run dashboard.py
