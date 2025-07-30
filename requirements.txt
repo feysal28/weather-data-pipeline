@@ -1,17 +1,17 @@
 # Core Libraries
-requests==2.31.0
-pandas==2.2.1
-SQLAlchemy==2.0.28
-python-dotenv==1.0.1
-streamlit==1.33.0
-plotly==5.22.0
+requests
+pandas
+SQLAlchemy
+python-dotenv
+streamlit
+plotly
 
 # Common Dependencies
-numpy==1.26.4
-protobuf==4.25.3
-typing_extensions==4.11.0
-python-dateutil==2.9.0.post0
-pytz==2024.1
+numpy
+protobuf
+typing_extensions
+python-dateutil
+pytz
 
 # Virtual Environment Management (optional but recommended)
 virtualenv==20.25.1
