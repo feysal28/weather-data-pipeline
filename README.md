@@ -19,6 +19,6 @@ A complete ETL solution for collecting, processing, and visualizing weather data
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/yourusername/weather-data-pipeline.git
+git clone https://github.com/feysal28/weather-data-pipeline.git
 cd weather-data-pipeline
 pip install -r requirements.txt
